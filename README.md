@@ -40,7 +40,7 @@
   </div>
 
   ---
-  <div align="left">
+  <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=castelarxxx&show_icons=true&theme=purple&count_private=true&include_all_commits=true&border_radius=10&hide_border=false" height="300" alt="GitHub Stats" />
   <br><br>
 
