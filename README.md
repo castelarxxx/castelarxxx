@@ -35,12 +35,12 @@
 
 ### <h1>🔥 My GitHub Stats
 
-<div align="right">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=castelarxxx&layout=compact&theme=purple&langs_count=6&hide_border=false&card_width=350" height="300" alt="Top Languages" />
   </div>
 
   ---
-  <div align="right">
+  <div align="leftt">
   <img src="https://github-readme-stats.vercel.app/api?username=castelarxxx&show_icons=true&theme=purple&count_private=true&include_all_commits=true&border_radius=10&hide_border=false" height="300" alt="GitHub Stats" />
   <br><br>
 
