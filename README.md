@@ -56,8 +56,4 @@
 
 ---
 
-<style>
- h1, h2, h3, h6, p {
-    color: #a66bbe !important;
-  }
-</style>
+
