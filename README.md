@@ -1,60 +1,63 @@
-
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=castelarxxx.castelarxxx&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=castelarxxx.castelarxxx" />
 </div>
 
-###
+<h2 align="center" style="color:#a66bbe">👋 Hi there, I'm Hilary Castelar!</h2>
 
-<h2 align="center">👋 Hi there<br>I'm Hilary Castelar !</h2>
+<p align="center">💻 Fullstack Developer | 💡 Tech Enthusiast | 🎮 Gamer | 🎵 Music Lover</p>
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 👩‍💻 About Me
 
-###
+- 🌍 I'm from Brazil  
+- 💼 I'm currently working as a **Back-End Developer**, but I also have **solid knowledge of Front-End** technologies.  
+- 🚀 I'm focused on expanding my full-stack development skills, learning new tools and building complete solutions.  
+- ⚡ In my free time, I enjoy playing games, listening to music, and studying new tech trends.
 
-<h6 align="left">I'm from Brazil<br><br>- 🔭 I’m working as Front-End developer. <br><br>- 📚 I'm currently learning new front-end tools while expanding my understanding of back-end technologies to improve my overall development skills.<br><br>- ⚡ In my free time I like playing video games, listening to music and studying</h6>
+---
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+### 🛠 Languages & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+### <h1>🔥 My GitHub Stats
 
-###
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=castelarxxx&layout=compact&theme=purple&langs_count=6&hide_border=false&card_width=350" height="300" alt="Top Languages" />
+  </div>
 
-<br clear="both">
+  ---
+  <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=castelarxxx&show_icons=true&theme=purple&count_private=true&include_all_commits=true&border_radius=10&hide_border=false" height="300" alt="GitHub Stats" />
+  <br><br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=castelarxxx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=castelarxxx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=castelarxxx&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <br><br>
 </div>
 
-###
+---
+
+### 📫 Let's Connect
+
+- 💌 [LinkedIn](https://www.linkedin.com/in/hilary-castelar/)
+- ✉️ Feel free to reach me for tech talk or collaboration!
+
+---
+
+<style>
+ h1, h2, h3, h6, p {
+    color: #a66bbe !important;
+  }
+</style>
